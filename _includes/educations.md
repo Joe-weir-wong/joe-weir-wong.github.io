@@ -9,7 +9,7 @@
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Telecommunications Engineering, <strong>Xidian University</strong>.</li>
   <li>Advisor: Prof. Wenping Ma</li>
-  <li>Research Area: 6G Networks, Blockchain, and Network Security</li>
+  <li>Research Area: Recommendation system, QoS prediction and Privacy Computation</li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
@@ -17,8 +17,8 @@
   <span>Aug. 2018 - Aug. 2021</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
-  <li><strong>Liaoning University</strong>,Shenyang, Liaoning, China</li>
-  <li>Advisor: Prof. Jiantao Li</li>
+  <li>School of Mathematics and Statistics, <strong>Liaoning University</strong>.</li>
+  <li>Advisor: Assoc. Prof. Jiantao Li</li>
   <li>Research Area: Quantum MDS codes and Error-correcting codes</li>
 </ul>
 
@@ -28,6 +28,6 @@
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Mathematics and Statistics, <strong>Baicheng Normal University</strong>.</li>
-  <li>Advisor: Assoc. Prof. Binjie Wang</li>
-  <li>Research Area: Internet of Things and Data Monitoring</li>
+  <li>Advisor: Assoc. Prof. Bingjie Wang</li>
+  <li>Research Area: Applied Mathematics</li>
 </ul>
