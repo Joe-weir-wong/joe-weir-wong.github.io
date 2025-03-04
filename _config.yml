@@ -27,8 +27,8 @@ link_type: icon #text/icon
 # clarivate: https://webofscience.clarivate.cn/wos/author/record/HLX-1711-2023
 # scopus: https://www.scopus.com/authid/detail.uri?authorId=58088423400
 twitter: https://x.com/weir_wong
-cv_link: ./assets/files/Weir_CV.pdf
 github_link: https://github.com/Joe-weir-Wong
+cv_link: ./assets/files/Weir_CV.pdf
 linkedin: https://www.linkedin.com/in/wen-zhong-9a59771a5/
 
 # Images 
@@ -40,9 +40,6 @@ favicon_dark: ./assets/img/icon.png
 # You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
-# Footnotes
-# footnote: Quin Yim.
-# footnote_link: https://quinyim.github.io/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
