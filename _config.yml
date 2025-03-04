@@ -33,8 +33,8 @@ github_link: https://github.com/Joe-weir-Wong
 
 # Images 
 avatar: ./assets/img/kun.png
-favicon: ./assets/img/favicon-dark.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/icon.png
+favicon_dark: ./assets/img/icon.png
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
