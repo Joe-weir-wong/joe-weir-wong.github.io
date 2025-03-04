@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-Hello there! 👋 Welcome to Weir’s Homepage
+Hello there!  👋  Welcome to Weir’s Homepage
 
 I am a Ph.D. student in the School of Telecommunications Engineering at [Xidian University](https://www.xidian.edu.cn/). I am fortunate to work with and be advised by [Prof. Wenping Ma](https://web.xidian.edu.cn/mawenping/). I am interested in algebraic coding and privacy protection issues in novel scenarios.
 
