@@ -6,11 +6,11 @@
   <span><strong>Xidian University (XDU)</strong> Xi’an, Shaanxi, China </span>
   <span>Aug. 2021 - Jun. 2025</span>
 </div>
-<ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
+<!-- <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;"> -->
   <li><strong>PhD</strong> student in Cryptography, expected Jun. 2025.</li>
   <!-- <li>Advisor: Prof. Wenping Ma</li>
   <li>Research Area: 6G Networks, Blockchain, and Network Security</li> -->
-</ul>
+<!-- </ul> -->
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
   <span><strong>M.E.</strong> in Information and Communications Engineering</span>
