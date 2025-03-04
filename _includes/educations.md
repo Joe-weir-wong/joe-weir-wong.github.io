@@ -3,31 +3,31 @@
 <h2 style="margin: 60px 0px 10px;">Educations</h2>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
-  <span><strong>Xidian University (XDU)</strong> Xi’an, Shaanxi, China </span>
+  <span><strong>Ph.D.</strong> in Cryptography</span>
   <span>Aug. 2021 - Jun. 2025</span>
-</div>
-<!-- <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;"> -->
-  <li><strong>PhD</strong> student in Cryptography, expected Jun. 2025.</li>
-  <!-- <li>Advisor: Prof. Wenping Ma</li>
-  <li>Research Area: 6G Networks, Blockchain, and Network Security</li> -->
-<!-- </ul> -->
-
-<div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
-  <span><strong>M.E.</strong> in Information and Communications Engineering</span>
-  <span>Aug. 2019 - Aug. 2021</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Telecommunications Engineering, <strong>Xidian University</strong>.</li>
-  <li>Advisor: Prof. Ping Zeng</li>
-  <li>Research Area: Internet of Vehicles and Blockchain</li>
+  <li>Advisor: Prof. Wenping Ma</li>
+  <li>Research Area: 6G Networks, Blockchain, and Network Security</li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
-  <span><strong>B.E.</strong> in Internet of Things Engineering</span>
-  <span>Aug. 2015 - Jun. 2019</span>
+  <span><strong>M.E.</strong> in Fundamental Mathematics</span>
+  <span>Aug. 2018 - Aug. 2021</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
-  <li>School of Computer Science and Engineering, <strong>Xi'an University of Technology</strong>.</li>
-  <li>Advisor: Assoc. Prof. Kan Wang</li>
+  <li><strong>Liaoning University</strong>,Shenyang, Liaoning, China</li>
+  <li>Advisor: Prof. Jiantao Li</li>
+  <li>Research Area: Quantum MDS codes and Error-correcting codes</li>
+</ul>
+
+<div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
+  <span><strong>B.E.</strong> in Mathematics and Applied Mathematics</span>
+  <span>Aug. 2014 - Jun. 2018</span>
+</div>
+<ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
+  <li>School of Mathematics and Statistics, <strong>Baicheng Normal University</strong>.</li>
+  <li>Advisor: Assoc. Prof. Binjie Wang</li>
   <li>Research Area: Internet of Things and Data Monitoring</li>
 </ul>
