@@ -6,3 +6,5 @@
 <br />
 <strong>Office Location:</strong> Main Buliding I-315
 <br />
+<strong>Email:</strong> wweiwei@ieee.org
+<br />
