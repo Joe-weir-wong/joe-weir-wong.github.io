@@ -3,13 +3,13 @@
 <h2 style="margin: 60px 0px 10px;">Educations</h2>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
-  <span><strong>Ph.D.</strong> in Cryptography</span>
+  <span><strong>Xidian University (XDU)</strong> Xi’an, Shaanxi, China </span>
   <span>Aug. 2021 - Jun. 2025</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
-  <li>School of Telecommunications Engineering, <strong>Xidian University</strong>.</li>
-  <li>Advisor: Prof. Wenping Ma</li>
-  <li>Research Area: 6G Networks, Blockchain, and Network Security</li>
+  <li><strong>PhD</strong> student in Cryptography, expected Jun. 2025.</li>
+  <!-- <li>Advisor: Prof. Wenping Ma</li>
+  <li>Research Area: 6G Networks, Blockchain, and Network Security</li> -->
 </ul>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
