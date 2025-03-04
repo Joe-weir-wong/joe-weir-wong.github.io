@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong>  No. 2 South Taibai Road, Xi’an, Shaanxi, China
 <br />
-<strong>Office Location:</strong> Main Buliding I-315
+<strong>Office:</strong> Main Buliding I-315
 <br />
 <strong>Email:</strong> wweiwei@ieee.org
 <br />
