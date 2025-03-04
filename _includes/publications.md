@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=NyUwUmIAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
+<h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <ul style="margin: 0; padding-left: 0; list-style-position: inside;">
     <li><strong>Weiwei Wang</strong>, Wenping Ma, and Kun Yan, "Trust-aware privacy-preserving QoS prediction with graph neural collaborative filtering for internet of things services," in  <em>Complex & Intelligent Systems</em>, 2025, 11(4), 191. [<a href="https://link.springer.com/article/10.1007/s40747-025-01824-w">Paper</a>]</li>
