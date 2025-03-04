@@ -1,6 +1,6 @@
 # Basic Information 
-title: Weiwei Wang
-position: Ph.D. Student
+title: Wei-wei Wang
+position: Postgraduate Student
 # department: School of Telecommunications Engineering
 affiliation: Xidian University
 affiliation_link: https://www.xidian.edu.cn/
@@ -11,7 +11,7 @@ email: wweiwei@stu.xidian.edu.cn
 # Search Engine Optimization (SEO)
 keywords: weiweiw
 canonical: https://joe-weir-wong.github.io/
-description: Kun Yan is a Ph.D. students at School of Telecommunications Engineering, Xidian University. His research interests include 6G networks, blockchain, and Internet of things.
+description: Wei-wei Wang is a Ph.D. students at School of Telecommunications Engineering, Xidian University. His research interests include Algebraic Coding and Cryptography.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: true
@@ -26,8 +26,8 @@ google_scholar: https://scholar.google.com/citations?user=NyUwUmIAAAAJ
 researchgate: https://www.researchgate.net/profile/Kun-Yan-24
 # clarivate: https://webofscience.clarivate.cn/wos/author/record/HLX-1711-2023
 # scopus: https://www.scopus.com/authid/detail.uri?authorId=58088423400
-#twitter: https://twitter.com/Wen_Zhong_
-cv_link: ./assets/files/Kun_Yan_CV.pdf
+twitter: https://twitter.com/Joe_weir_Wong
+# cv_link: ./assets/files/Kun_Yan_CV.pdf
 github_link: https://github.com/Joe-weir-Wong
 #linkedin: https://www.linkedin.com/in/wen-zhong-9a59771a5/
 
