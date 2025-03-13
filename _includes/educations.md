@@ -28,6 +28,6 @@
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Mathematics and Statistics, <strong>Baicheng Normal University</strong>.</li>
-  <li>Advisor: Assoc. Prof. Bingjie Wang</li>
+  <li>Advisor: Prof. Bingjie Wang</li>
   <li>Research Area: Applied Mathematics</li>
 </ul>
