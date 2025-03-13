@@ -12,28 +12,28 @@
     </li>
     <li>
         <div style="display: flex; justify-content: space-between;">
-            <span><strong>Outstanding Individual Award on “Financial Cryptography Cup”.</strong></span>
+            <span><strong>Outstanding Individual Award on “Financial Cryptography Cup”</strong></span>
             <span>Feb. 2023</span>
         </div>
         <div>National Cryptography Application and Technology Innovation Competition Organizing Committee</div>
     </li>
     <li>
         <div style="display: flex; justify-content: space-between;">
-            <span><strong>Team Third Award on “Financial Cryptography Cup”.</strong></span>
+            <span><strong>Team Third Award on “Financial Cryptography Cup”</strong></span>
             <span>Feb. 2023</span>
         </div>
         <div>National Cryptography Application and Technology Innovation Competition Organizing Committee</div>
     </li>
     <li>
         <div style="display: flex; justify-content: space-between;">
-            <span><strong>Second Prize for Postgraduate Academic Scholarship.</strong></span>
+            <span><strong>Second Prize for Postgraduate Academic Scholarship</strong></span>
             <span>Oct. 2023</span>
         </div>
         <div>Xidian University</div>
     </li>
     <li>
         <div style="display: flex; justify-content: space-between;">
-            <span><strong>Outstanding Graduate Student and Second Postgraduate Academic Scholarship.</strong></span>
+            <span><strong>Outstanding Graduate Student and Second Postgraduate Academic Scholarship</strong></span>
             <span>May. 2021</span>
         </div>
         <div>Liaoning University</div>
