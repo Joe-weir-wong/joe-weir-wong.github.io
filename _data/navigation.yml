@@ -6,12 +6,12 @@ main:
 
   - title: "Misc"
     url: ./#misc
-    
+
   - title: "Resources"
     url: ./#resources
 
-  - title: "Services"
-    url: ./#services
+  # - title: "Services"
+  #   url: ./#services
 
   # - title: "Talks"
   #   url: ./#invited-talks
@@ -25,8 +25,8 @@ main:
   - title: "Publications"
     url: ./#publications
 
-  - title: "News"
-    url: ./#news
+  # - title: "News"
+  #   url: ./#news
 
   - title: "Biography"
     url: ./#biography
