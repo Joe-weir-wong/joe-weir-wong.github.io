@@ -26,4 +26,4 @@ main:
     url: ./#biography
 
   - title: "Resources"
-    url: .resources/
+    url: ./#resources
