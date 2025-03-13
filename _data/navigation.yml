@@ -3,6 +3,9 @@ main:
   - title: "Contact"
     url: ./#contact 
     right: true 
+    
+  - title: "Resources"
+    url: ./#resources
 
   - title: "Services"
     url: ./#services
@@ -24,6 +27,3 @@ main:
 
   - title: "Biography"
     url: ./#biography
-
-  - title: "Resources"
-    url: ./#resources
