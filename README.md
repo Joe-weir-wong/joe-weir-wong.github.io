@@ -1,3 +1,2 @@
-# w.github.io
-This is the repository for my personal website.
+This is the repository for weir'personal website.
 # w.github.io
