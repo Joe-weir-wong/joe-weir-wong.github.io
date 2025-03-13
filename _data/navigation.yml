@@ -3,6 +3,9 @@ main:
   - title: "Contact"
     url: ./#contact 
     right: true 
+
+  - title: "Misc"
+    url: ./#misc
     
   - title: "Resources"
     url: ./#resources
