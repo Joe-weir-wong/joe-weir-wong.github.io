@@ -24,3 +24,6 @@ main:
 
   - title: "Biography"
     url: ./#biography
+
+  - title: "Resources"
+    url: .resources/

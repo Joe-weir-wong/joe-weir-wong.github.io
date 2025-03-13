@@ -7,5 +7,5 @@ Hello there!  👋  Welcome to Weir's Homepage
 I am a Ph.D. student in the School of Telecommunications Engineering at [Xidian University](https://www.xidian.edu.cn/). I am fortunate to work with and be advised by [Prof. Wenping Ma](https://web.xidian.edu.cn/mawenping/). I am interested in <strong>algebraic coding</strong> and privacy protection issues in novel scenarios.
 
 <span style="color: #ea3323; font-size: 1.3em;">
-📚 Strive diligently but without haste, learn constantly but without reluctance. 🎯
+📚 Strive diligently but without haste, learn constantly but without reluctance.
 </span>

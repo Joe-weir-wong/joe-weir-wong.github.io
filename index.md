@@ -15,4 +15,6 @@ layout: homepage
 
 <!-- {% include_relative _includes/services.md %} -->
 
+{% include_relative _includes/resources.md %}
+
 {% include_relative _includes/contact.md %}
