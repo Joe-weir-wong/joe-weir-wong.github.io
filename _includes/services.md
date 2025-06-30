@@ -5,12 +5,6 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.comsoc.org/publications/journals/ieee-tnse"><autocolor>IEEE Transactions on Network Science and Engineering</autocolor></a></li>
-  <li><a href="https://www.comsoc.org/publications/journals/ieee-tnsm"><autocolor>IEEE Transactions on Network and Service Management</autocolor></a></li>
-  <li><a href="https://ieee-iotj.org"><autocolor>IEEE Internet of Things Journal</autocolor></a></li>
-  <li><a href="https://www.comsoc.org/publications/journals/ieee-comml"><autocolor>IEEE Communications Letters</autocolor></a></li>
-  <li><a href="https://ctsoc.ieee.org/publications/ieee-consumer-electronics-magazine.html"><autocolor>IEEE Consumer Electronics Magazine</autocolor></a></li>
-  <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/10489"><autocolor>Applied Intelligence</autocolor></a></li>
-  <li><a href="https://www.sciencedirect.com/journal/vehicular-communications"><autocolor>Vehicular Communications</autocolor></a></li>
+  <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a></li>
+  <li><a href="	http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>IEEE Transactions on Fuzzy Systems</autocolor></a></li>
 </ul>
