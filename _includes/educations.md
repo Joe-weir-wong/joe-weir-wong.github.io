@@ -4,7 +4,7 @@
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
   <span><strong>Ph.D.</strong> in Cryptography</span>
-  <span>Aug. 2021 - Jun. 2025</span>
+  <span>Aug. 2021 - Now</span>
 </div>
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Telecommunications Engineering, <strong>Xidian University</strong>.</li>
