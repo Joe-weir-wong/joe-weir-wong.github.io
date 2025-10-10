@@ -34,8 +34,8 @@ linkedin: https://www.linkedin.com/in/wen-zhong-9a59771a5/
 
 # Images 
 avatar: ./assets/img/weir.jpg
-favicon: ./assets/img/icon.png
-favicon_dark: ./assets/img/icon.png
+favicon: ./assets/img/icon_main.png
+favicon_dark: ./assets/img/icon_main.png
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
