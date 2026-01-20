@@ -1,11 +1,11 @@
 # Basic Information 
 title: WEI-WEI WANG
 cn_title: 「王偉偉」
-position: Postgraduate Student
+# position: Postgraduate Student
 # department: School of Telecommunications Engineering
 affiliation: Longdong University
 affiliation_link: https://www.ldxy.edu.cn/
-affiliation_logo: ./assets/img/LDU.png #./assets/img/university-logo-small-horizontal-white-156eae9527.svg
+affiliation_logo: ./assets/img/LDU.svg #./assets/img/university-logo-small-horizontal-white-156eae9527.svg
 location: Qingyang, China
 email: wweiwei@ieee.org
 
