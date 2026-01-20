@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp></h2>
 
 <ul style="margin: 0; padding-left: 0; list-style-position: inside;">
+    <li><strong>Weiwei Wang</strong>, Hu Liu, and Wenping Ma, "Robust and Secure Multi-Party Collaborative QoS Prediction Scheme for IIoT Services," in  <em>IEEE Transactions on Industrial Informatics</em>, 2026, Accepted. </li>
     <li><strong>Weiwei Wang</strong>, Wenping Ma, and Kun Yan, "TEPP: A Robust Trust-Enhanced Privacy-Preserving Quality of Service Prediction Method for Web Service Recommendation," in  <em>Expert Systems With Applications</em>, 2025, 294: 128786. [<a href="https://doi.org/10.1016/j.eswa.2025.128786">Paper</a>]</li>
     <li><strong>Weiwei Wang</strong>, Wenping Ma, and Kun Yan, "Trust-aware privacy-preserving QoS prediction with graph neural collaborative filtering for internet of things services," in  <em>Complex & Intelligent Systems</em>, 2025, 11(4), 191. [<a href="https://rdcu.be/ebCka">Paper</a>]</li>
     <li><strong>Weiwei Wang</strong>, Wenping Ma, and Kun Yan, "FSPPCFs: a privacy-preserving collaborative filtering recommendation scheme based on fuzzy C-means and Shapley value," in  <em>Complex & Intelligent Systems</em>, 2025, 11(1), 107. [<a href="https://rdcu.be/d5ijq">Paper</a>]</li>
