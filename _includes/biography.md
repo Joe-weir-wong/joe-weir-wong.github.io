@@ -1,6 +1,6 @@
 <h1 id="biography"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Biography</h2>
+<h2 style="margin: 80px 0px 10px;">Biography</h2>
 
 Hello there!  👋  Welcome to Weir's Homepage
 
