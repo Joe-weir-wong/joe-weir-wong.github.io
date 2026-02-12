@@ -4,7 +4,7 @@
 
 <p><strong>Address:</strong>  No. 45, Lanzhou Road, Xifeng District, Qingyang, Gansu, China
 <br />
-<strong>Office:</strong> Shangshi Building 310
+<strong>Office:</strong> Shangshi Building 307
 <br />
 <strong>Email:</strong> wweiwei@ieee.org
 <br />
