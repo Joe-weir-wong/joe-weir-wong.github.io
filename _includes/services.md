@@ -7,4 +7,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a></li>
   <li><a href="	http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>IEEE Transactions on Fuzzy Systems</autocolor></a></li>
+  <li><a href="	http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>Complex & Intelligent Systems</autocolor></a></li>
+  <li><a href="	http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>Scientific Reports</autocolor></a></li>
+  <li><a href="	http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>Journal of Cloud Computing</autocolor></a></li>
 </ul>
