@@ -8,6 +8,5 @@
   <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering</autocolor></a></li>
   <li><a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=91"><autocolor>IEEE Transactions on Fuzzy Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/40747"><autocolor>Complex & Intelligent Systems</autocolor></a></li>
-  <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Reports</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/13677"><autocolor>Journal of Cloud Computing</autocolor></a></li>
 </ul>
