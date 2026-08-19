@@ -9,7 +9,7 @@
 <ul style="font-size: 0.95em; margin-top 2px; padding-left: 16px;">
   <li>School of Telecommunications Engineering, <strong>Xidian University</strong>.</li>
   <!-- <li>Advisor: Prof. Wenping Ma</li> -->
-  <li>Research Area: Applied cryptography, Privacy protection, AI security</li>
+  <li>Research Area: Applied cryptography, Privacy protection, and AI security</li>
 </ul>
 
 <div style="display: flex; justify-content: space-between; width: 100%; font-size: 1.05em;">
